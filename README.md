@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pragunbhutani
-- 👀 I currently work as a Senior Analytics Engineer at Intercom
 - 📫 You can reach me at https://pragunbhutani.com
 
 <!---
